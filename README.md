@@ -1,5 +1,5 @@
-SORD M68 Altanetive キーボードプロジェクト
+SORD M68 Keyboard Clone Project
 
-SORD M68のキーボードI/F部分の回路(Proto04_fix_02)とキーボード部分(keymatrix03)です。
-キースイッチはCherry MX互換となっています。
-
+SORD M68のキーボードをクローンを作成するプロジェクトです。proto04_fix_02が、M68とキーボード部分を仲介するI/F回路のKicadファイルです。keymatrix03がキーボードのKicadファイルです。
+使用しているキースイッチはCherry MX互換です。シンボルやフットプリントはLibrary Loaderで入手可能なものだと記憶しています。Cherry MXキースイッチのシンボル、フットプリントは各所で入手可能です。
+I/F回路とキーボードの接続をピンソケットにしています。明らかに不便ですので、ご自身で適当なコネクタに変更してください。
